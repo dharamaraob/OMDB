@@ -28,3 +28,5 @@ Director: George Lucas </br>
 Writer: George Lucas </br>
 Rotten Tomatoes Rating: 54% </br>
 
+Note: If you are testing the python code, please pass your apikey in config file.
+
