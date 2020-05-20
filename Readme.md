@@ -30,3 +30,6 @@ Rotten Tomatoes Rating: 54% </br>
 
 Note: If you are testing the python code, please pass your apikey in config file.
 
+To do:
+Update entry point and command for support multiple variables
+Ref: https://stackoverflow.com/questions/40873165/use-docker-run-command-to-pass-arguments-to-cmd-in-dockerfile
